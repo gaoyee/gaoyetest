@@ -21,7 +21,7 @@
   <distributionManagement>
     <repository>
       <id>hengyunabc-mvn-repo</id>
-      <url>file:${user.home}/mycode/gaoyetest/repository/</url>
+      <url>file:D:/workspace_5\trunk/server/projects/gaoyetest/repository/</url>
     </repository>
   </distributionManagement>
 
