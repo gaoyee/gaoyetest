@@ -16,6 +16,6 @@ public class App
     }
     public static void main( String[] args )
     {
-        System.out.println( "Hello World! i am ok how 冲突了" );
+        System.out.println( "Hello World! i am ok how 冲突了1" );
     }
 }
